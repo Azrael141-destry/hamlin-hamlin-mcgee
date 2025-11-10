@@ -1,0 +1,96 @@
+FAISS not available, using numpy-based search
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.137.254:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+127.0.0.1 - - [09/Nov/2025 21:51:24] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/unar/hhm/app.py', reloading
+FAISS not available, using numpy-based search
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+127.0.0.1 - - [09/Nov/2025 21:52:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 21:53:31] "POST /api/initialize HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 21:53:37] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 21:53:47] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:01:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:02:20] "POST /api/initialize HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:02:27] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:03:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:03:59] "POST /api/initialize HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:04:09] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:04:34] "POST /api/ask HTTP/1.1" 200 -
+ * Detected change in '/Users/unar/hhm/rag_app.py', reloading
+FAISS not available, using numpy-based search
+Loading embedding model...
+Loading embeddings...
+RAG Assistant initialized!
+Loading embedding model...
+Loading embeddings...
+RAG Assistant initialized!
+Loading embedding model...
+Loading embeddings...
+RAG Assistant initialized!
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+ * Detected change in '/Users/unar/hhm/test_api.py', reloading
+FAISS not available, using numpy-based search
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+ * Detected change in '/Users/unar/hhm/test_api.py', reloading
+FAISS not available, using numpy-based search
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+ * Detected change in '/Users/unar/hhm/test_api.py', reloading
+FAISS not available, using numpy-based search
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+ * Detected change in '/Users/unar/hhm/rag_app.py', reloading
+FAISS not available, using numpy-based search
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+127.0.0.1 - - [09/Nov/2025 22:06:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:06:56] "POST /api/initialize HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:07:06] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:07:49] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:12:12] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:12:26] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:13:51] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 22:15:11] "POST /api/ask HTTP/1.1" 200 -
+ * Detected change in '/Users/unar/hhm/rag_app.py', reloading
+FAISS not available, using numpy-based search
+Loading embedding model...
+Loading embeddings...
+RAG Assistant initialized!
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+ * Detected change in '/Users/unar/hhm/rag_app.py', reloading
+FAISS not available, using numpy-based search
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+ * Detected change in '/Users/unar/hhm/rag_app.py', reloading
+FAISS not available, using numpy-based search
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 171-941-950
+127.0.0.1 - - [09/Nov/2025 23:58:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 23:59:30] "POST /api/initialize HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2025 23:59:56] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [10/Nov/2025 00:00:05] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [10/Nov/2025 00:00:14] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [10/Nov/2025 00:00:40] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [10/Nov/2025 00:01:18] "POST /api/ask HTTP/1.1" 200 -
+127.0.0.1 - - [10/Nov/2025 00:01:40] "POST /api/ask HTTP/1.1" 200 -
