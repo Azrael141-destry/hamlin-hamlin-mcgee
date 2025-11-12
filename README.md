@@ -12,6 +12,11 @@ A comprehensive RAG (Retrieval-Augmented Generation) application for analyzing O
 - ✅ **Free LLMs**: Uses free models from OpenRouter API
 - ✅ **Web Interface**: Beautiful, modern web UI for querying the data
 
+- <img width="1293" height="902" alt="image" src="https://github.com/user-attachments/assets/d182da6b-db00-4ce7-9d47-8087f640e0aa" />
+
+<img width="1542" height="848" alt="image" src="https://github.com/user-attachments/assets/2f93367a-6aec-494f-904d-a10a75eb4f3a" />
+
+
 ## Setup
 
 ### 1. Install Dependencies
