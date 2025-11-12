@@ -1,6 +1,6 @@
 # Olist RAG Assistant
 
-A comprehensive RAG (Retrieval-Augmented Generation) application for analyzing Olist e-commerce data. This system processes order, customer, seller, product, payment, and review data to provide intelligent answers using free LLMs via OpenRouter API.
+A comprehensive RAG (Retrieval-Augmented Generation) application for analyzing Olist e-commerce data. This system processes order, customer, seller, product, payment, and review data to provide intelligent answers using free LLMs via OpenRouter API.("here are the files for this application to run "https://drive.google.com/drive/folders/1GSEHhQErf5YyMmnPwZFcPHWhAPB-eDcp?usp=drive_link"")
 
 ## Features
 
